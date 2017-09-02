@@ -1,0 +1,2 @@
+include ':app'
+include ':chips', ':colorpicker', ':datetimepicker', ':timezonepicker', ':calendar-common','common'
